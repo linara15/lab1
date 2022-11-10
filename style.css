@@ -1,0 +1,225 @@
+.body{
+    width: 100%;
+    font-family: 'Poppins', sans-serif;
+}
+.container{
+    width: 65%;
+}
+.box{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+.title{
+    border-bottom: solid 1px #828282;
+
+}
+.title1{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 32px;
+    margin-top: 33px;
+}
+.denis_novikov{
+    display: flex;
+    padding-top: 40px;
+    padding-bottom: 50px;
+
+}
+.name{
+    margin-right: 297px;
+    width: 13%;
+    font-size: 47px;
+}
+.description{
+    width: 16%;
+    font-size: 18px;
+    display: flex;
+    align-items: flex-end;
+}
+.photo1{
+    width: 100%;
+    margin-bottom: 104px;
+}
+.photo2{
+    width: 100%;
+}
+.box1{
+    background-color: #f6f6f6;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
+    padding-top: 120px;
+    padding-bottom: 107px;
+}
+.descr{
+    width: 51%;
+    margin: 0 auto;
+    text-align: center;
+    font-size: 18px;
+}
+.descr:not(:last-child){
+    margin-bottom: 10px;
+}
+.aboutme{
+    width: 51%;
+    margin: 0 auto;
+    text-align: center;
+    font-size: 34px;
+    margin-bottom: 7px;
+}
+.box2{
+    display: flex;
+    justify-content: center;
+}
+.container1{
+    width: 65%;
+}
+.title2{
+    text-align: center;
+    font-size: 34px;
+    padding-top: 91px;
+    padding-bottom: 62px;
+    
+}
+.descr1{
+    text-align: center;
+    font-size: 18px;
+    padding-bottom: 84px;
+}
+.photo{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    padding-bottom: 222px;
+    flex-direction: row;
+}
+.photo3{
+    width: 100%;
+    display: flex;
+    margin: 0 auto;
+}
+.title4{
+    display: flex;
+    justify-content: center;
+}
+.title3{
+    text-align: center;
+    font-size: 34px;
+    padding-bottom: 47px;
+}
+.image{
+    width: 90%;
+    display: flex;
+    margin: 0 auto;
+}
+.image2{
+    height: 40%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.image3{
+    width: 40%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
+}
+.photoshop{
+    width: 25%;
+}
+.photo9{
+    width: 100%;
+    box-sizing: border-box;
+}
+.photos{
+    display: flex;
+    justify-content: center;
+    margin: 0 auto;
+}
+.button1{
+    text-align: center;
+    text-decoration-line: underline;
+    font-size: 18px;
+    padding-top: 45px;
+    padding-bottom: 100px;
+}
+.photo10{
+    width: 100%;
+    box-sizing: border-box;
+}
+.button2{
+    text-align: center;
+    text-decoration-line: underline;
+    font-size: 18px;
+    padding-top: 45px;
+    padding-bottom: 100px;
+}
+.photo11{
+    width: 100%;
+    box-sizing: border-box;
+}
+.button3{
+    text-align: center;
+    text-decoration-line: underline;
+    font-size: 18px;
+    padding-top: 45px;
+    padding-bottom: 100px;
+}
+.contacts{
+    text-align: center;
+    font-size: 34px;
+    padding-top: 210px;
+}
+.descr2{
+    width: 100%;
+    text-align: center;
+    font-size: 18px;
+    padding-bottom: 21px;
+    padding-top: 25px;
+}
+.descrr{
+    width: 20%;
+    display: flex;
+    justify-content: center;
+    margin: 0 auto;
+}
+.messange1{
+    background-color: black;
+    border-radius:  50px; ;
+    width: 20%;
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    margin: 0 auto;
+}
+.messange2{
+    text-align: center;
+    font-size: 18px;
+    padding: 0.5em 0.75em;
+    color: #f6f6f6;
+}
+.descr3{
+    text-align: center;
+    font-size: 18px;
+    color:#828282;
+    padding-top: 200px;
+}
+.descr4{
+    text-align: center;
+    font-size: 18px;
+    color:#828282;
+    margin-bottom: 124px;
+}
+.gallery{
+    width: 45%;
+    display: flex;
+    justify-content: space-between;
+    margin: 0 auto;
+    margin-top: 87px;
+
+}
