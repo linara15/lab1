@@ -221,5 +221,56 @@
     justify-content: space-between;
     margin: 0 auto;
     margin-top: 87px;
-
 }
+
+
+
+@media screen and (max-width:1000px) {
+    .body{
+        width:100%;
+    }
+    .container{
+        width:90%;
+    }
+   
+    .title1{
+        display: table;
+        justify-content: space-between;
+        margin-bottom: 32px;
+        margin-top: 33px;
+    }
+    
+    .name{
+        margin-right: 200px;
+        width: 13%;
+        font-size: 47px;
+    }
+    .photo{
+        width: 100%;
+        
+        justify-content: center;
+        padding-bottom: 222px;
+    
+    }
+    
+    .photo{
+        width: 100%;
+        float:center;
+        justify-content: center;
+        padding-bottom: 222px;
+        flex-direction: row;
+    }
+    .messange1{
+       
+        width: 40%;
+      
+    }
+    .descr2{
+        width:100%;
+    }
+    .gallery{
+        width:50%;
+    }
+}
+
+
