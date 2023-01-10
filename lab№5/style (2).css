@@ -1,0 +1,36 @@
+img {
+    width: 200px;
+}
+
+h1{
+    font-weight: 700;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+    background-color: rgb(33, 104, 60);
+    border-radius: 10px;
+    padding: 10px 20px;
+    
+}
+
+.shop__link{
+    margin-right: 20px;
+}
+
+
+.shop__items{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.shop__item{
+    margin-right: 30px;
+    text-align: center;
+    border: 1px solid rgb(33, 104, 60);
+    padding: 20px;
+    border-radius: 10px;
+}
+
